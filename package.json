@@ -1,0 +1,12 @@
+{
+  "name": "dsh-life-hair",
+  "version": "0.1.0",
+  "description": "救命毫毛。上下文压缩时自动留档：把压缩产生的 checkpoint 写进便签归档目录，并叫醒会话补一条人工归档。",
+  "type": "module",
+  "license": "MIT",
+  "main": "lib/index.js",
+  "exports": { ".": "./lib/index.js", "./package.json": "./package.json" },
+  "files": ["lib", "cordis.patch.yml", "README.md", "LICENSE"],
+  "keywords": ["dsh", "dsh-plugin", "deepseek-harness", "cordis", "compaction", "memory"],
+  "dsh": { "bundle": { "patch": "./cordis.patch.yml" } }
+}

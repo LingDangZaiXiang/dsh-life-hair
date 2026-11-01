@@ -1,0 +1,7 @@
+# Bundle patch for dsh-life-hair.
+- insert:
+    - id: dsh-life-hair
+      name: dsh-life-hair
+      config:
+        enabled: true
+        wake: true
