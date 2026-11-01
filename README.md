@@ -49,6 +49,11 @@ dsh plugin --profile <profile> add LingDangZaiXiang/dsh-life-hair
 ## 许可
 
 MIT。
+## 完整方法
+
+三层记忆怎么用、为什么这么分、实测结果：见 [三层记忆的保命法.md](三层记忆的保命法.md)。
+原始讨论在 dsh-sticky-note 的 [Issue #28](https://github.com/Meredith2328/dsh-sticky-note/issues/28)。
+
 ## 和便签一起装
 
 这个插件自己只负责「抄一份」，**看和读都靠便签**。所以建议配套装：
